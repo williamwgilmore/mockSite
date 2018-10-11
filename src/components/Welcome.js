@@ -7,9 +7,9 @@ export default class Welcome extends Component {
 				<div className='row'>
 					<div className='col-md-12'>
 						<div className='text-center centerHeight'>
-							<h1 className='title mainTitle'><b>William Gilmore</b></h1>
+							<h1 className='title mainTitle'><b>Briana Indahl</b></h1>
 							<hr className='divider'/>
-							<h2 className='title subTitle'>Full Stack Web Developer</h2>
+							<h2 className='title subTitle'>Doctor of Astronomy</h2>
 						</div>
 					</div>
 				</div>

@@ -32,11 +32,7 @@ export default class Bio extends Component {
 				<div className='row'>
 					<div className='col-md-4 col-md-offset-2'>				
 						<div className={this.state.bioClass}>
-							I'm Will, a web developer. Most of my experience is in HTML, CSS, JavaScript/jQuery, and node.js 
-							websites, but I've also written sites using React.js and I do a small amount of Unity script development
-							 in C# for fun. I strive for simple yet elegant design, and focus on intuitive UI. I enjoy development 
-							 because of all the unexpected problems that you encounter, and how it makes you come up with new 
-							 creative solutions, or get help from people who face the challenge in an entirely different way.
+							
 						</div>
 					</div>
 					<div className='col-md-4 text-center'>

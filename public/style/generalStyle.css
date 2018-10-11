@@ -24,6 +24,7 @@ html, body {
 }
 
 #welcomeBackground {
+	background-image: url('../images/background.jpg');
 	background-size: 100% 100%;
 	background-position: left top;
 	background-attachment: fixed;
@@ -45,8 +46,9 @@ html, body {
 
 .mainTitle {
 	font-size: 10vh;
-	animation-duration: 2.5s;
+	animation-duration: 5s;
   animation-name: tocenter;
+  color: white;
 }
 
 @keyframes tocenter {
@@ -65,6 +67,7 @@ html, body {
 	font-size: 5vh;
 	animation-duration: 2.5s;
 	animation-name: fadein;
+	color: white;
 }
 
 .row {
@@ -73,7 +76,7 @@ html, body {
 }
 
 .centerHeight {
-	padding: 35vh 0;
+	padding: 25vh 0;
 }
 
 /*About CSS -- there is also css in a media query*/
