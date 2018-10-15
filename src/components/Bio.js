@@ -22,7 +22,7 @@ export default class Bio extends Component {
 
 	render() {
 		return (
-			<div>
+			<div id='About'>
 				<div className='row'>
 					<div className='col-md-8 col-md-offset-2'>
 						<h1 className='text-center'>About Me</h1>
