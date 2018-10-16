@@ -25,8 +25,6 @@ export default class Bio extends Component {
 			<div id='About'>
 				<div className='row'>
 					<div className='col-md-8 col-md-offset-2'>
-						<h1 className='text-center'>About Me</h1>
-						<hr className='blackBar'/>
 					</div>
 				</div>
 				<div className='row'>
